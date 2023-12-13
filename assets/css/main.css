@@ -4393,6 +4393,7 @@ input, select, textarea {
 		letter-spacing: 0.075em;
 		line-height: 1.5;
 		text-align: center;
+		justify-content: center;
 		text-transform: uppercase;
 		margin: 4rem auto 8rem auto;
 		width: calc(100% - 4rem);
@@ -4447,7 +4448,7 @@ input, select, textarea {
 		}
 
 			#copyright ul li {
-				border-left: solid 2px;
+				/* border-left: solid 2px; */
 				display: inline-block;
 				line-height: 1;
 				margin-left: 1rem;
